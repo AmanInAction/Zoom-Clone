@@ -1,2 +1,2 @@
 # Zoom-Clone
-<h1>A Video Conferencing Platform</h1>
+<h3>A Video Conferencing Platform</h3>
